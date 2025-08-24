@@ -13,7 +13,12 @@ git commit -m "Adicionando Comandos GIT para servir como Guia Para os Alunos"
 # Envia a branch 'feature/criar_sh_aula' para o GitHub
 git push origin feature/criar_sh_aula
 
+# Altere algo e comite na Branch feature/criar_sh_aula
+git add .
+git commit -m "Alterando algo na Branch feature/criar_sh_aula"
 
+# Faça um push das alterações para a branch
+git push origin feature/criar_sh_aula
 
 # Crie um PullRequest - No portal do GitHub
 
